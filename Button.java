@@ -1,5 +1,5 @@
 import javafx.application.Application;
-improt javafx.scene.*;
+import javafx.scene.*;
 
 public class Button extends application{
 
